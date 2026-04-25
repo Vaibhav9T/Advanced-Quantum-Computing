@@ -1,2 +1,2 @@
-# AQ
+# Advanced Quantum Computing
 Colab work
